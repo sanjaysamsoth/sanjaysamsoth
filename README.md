@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋,I'm Samsoth Sanjay!</h1>
 
 ###
 
-<p align="left">Hi, I'm Samsoth Sanjay! I’m a passionate Software Developer from India with a strong foundation in designing and implementing backend systems.</p>
+<p align="left">I’m a passionate Software Developer from India with a strong foundation in designing and implementing backend systems.</p>
 
 ###
 
