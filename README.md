@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a passionate Software Developer from India with a strong foundation in designing and implementing backend systems.</p>
+<p align="left">I’m a passionate aspiring Software Developer from India with a strong foundation in designing and implementing backend systems.</p>
 
 ###
 
